@@ -5,7 +5,7 @@ The goal of this code is to determine the context of users based on a list of av
 AxisTable.xlsx contains information of various axes that can be collected from sensors, which can be referenced for simulated data generation.
 
 Five axes and five contexts have been selected for our context detection research:
-  Chosen axes: Speed, heart rate, hand acceleration, hand amplitude, Time of Day
+   Chosen axes: Speed, heart rate, hand acceleration, hand amplitude, Time of Day
   Chosen contexts: Walking, Running, Cycling, Car, Train
   
 To calculate the magnitude of hand acceleration from three x, y, and z directions in the linnace* files, please run this code:
